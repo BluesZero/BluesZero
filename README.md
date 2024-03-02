@@ -1,13 +1,12 @@
-# Hey there
+# Hey there ˙ᵕ˙
 
-## Software Technology Engineer that loves game development <img src="no3.png" width="35"/> 
-## About me:
+## ╰┈➤ Software Technology Engineer that loves game development <img src="no3.png" width="35"/> 
 
-### <img src="no5.png" width="40"/>  Waifus and cats addicted 
-
-### <img src="no4.png" width="30"/>   Nintendo Lover
-
-### <img src="no2.png" width="35"/> Anime enthusiast
+> [!IMPORTANT]
+>  ➤  <img src="no5.png" width="35"/> Waifus and cats addicted 
+>  ➤  <img src="no4.png" width="25"/> Nintendo Lover 
+>  ➤  <img  src="no2.png" width="30"/>Anime enthusiast
+>  ➤ Pixel Artist 
 
 ## Objectives
 Take advantage of all the opportunities to learn, accepting the challenges that may arise to improve and acumulate more experience.
@@ -34,7 +33,7 @@ Take advantage of all the opportunities to learn, accepting the challenges that 
 ![VS Code](http://img.shields.io/badge/-%7C%20VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-%7C%20Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
+<br/><br/><br/>
 
 # Pixel Artist
 <img align="right" src="twh3.png" width="1000"/>
