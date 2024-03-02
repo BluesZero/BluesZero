@@ -1,16 +1,20 @@
 # Hey there
 
-## Software Technology Engineer that loves game development
+## Software Technology Engineer that loves game development <img src="no3.png" width="35"/> 
+## About me:
 
-Waifus and cats addicted 🛒🍌  
+### <img src="no5.png" width="40"/>  Waifus and cats addicted 
 
+### <img src="no4.png" width="30"/>   Nintendo Lover
+
+### <img src="no2.png" width="35"/> Anime enthusiast
 
 ## Objectives
 Take advantage of all the opportunities to learn, accepting the challenges that may arise to improve and acumulate more experience.
 <img align="right" alt="GIF" src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="250"/>
 <br />
 
-### Languages and Tools 🛠 
+### Languages and Tools 
 
 
 ![Python](http://img.shields.io/badge/-%7C%20Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -32,4 +36,6 @@ Take advantage of all the opportunities to learn, accepting the challenges that 
 
 <br/>
 
+# Pixel Artist
+<img align="right" src="twh3.png" width="1000"/>
 
