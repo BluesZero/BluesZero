@@ -6,7 +6,7 @@
 >  ➤  <img src="no5.png" width="35"/> Waifus and cats addicted 
 >  ➤  <img src="no4.png" width="25"/> Nintendo Lover 
 >  ➤  <img  src="no2.png" width="30"/>Anime enthusiast
->  ➤ Pixel Artist 
+>  ➤ <img  src="no6.png" width="30"/>Pixel Artist 
 
 ## Objectives
 Take advantage of all the opportunities to learn, accepting the challenges that may arise to improve and acumulate more experience.
