@@ -3,7 +3,7 @@
 ## ╰┈➤ Software Technology Engineer that loves game development <img src="no3.png" width="35"/> 
 
 > [!IMPORTANT]
->  ➤  <img src="no5.png" width="35"/> Waifus and cats addicted 
+>  ➤  <img src="no5.png" width="35"/> Cats addicted 
 >  ➤  <img src="no4.png" width="25"/> Nintendo Lover 
 >  ➤  <img  src="no2.png" width="25"/>Anime enthusiast
 >  ➤ <img  src="no6.png" width="30"/>Pixel Artist 
