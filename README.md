@@ -26,7 +26,7 @@ Take advantage of all the opportunities to learn, accepting the challenges that 
 ![Bootstrap](https://img.shields.io/badge/-%7C%20Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-%7C%20JavaScript-FF9900?style=flat-square&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-%7C%20React-00ccff?style=flat-square&logo=react&logoColor=ffffff)
-![NextJs](https://img.shields.io/badge/-%7C%20nextdotjs-00ccff?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![NextJs](https://img.shields.io/badge/-%7C%20NextJs-00ccff?style=flat-square&logo=nextdotjs&logoColor=3d3d3d)
 ![Nodejs](https://img.shields.io/badge/-%7C%20Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-%7C%20Express-181717?style=flat-square&logo=express&logoColor=ffffff)
 ![Microsoft Sql Server](https://img.shields.io/badge/-%7C%20Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
