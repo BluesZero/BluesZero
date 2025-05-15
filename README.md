@@ -20,7 +20,7 @@ Take advantage of all the opportunities to learn, accepting the challenges that 
 ![CSS3](https://img.shields.io/badge/-%7C%20CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-%7C%20JavaScript-FF9900?style=flat-square&logo=javascript&logoColor=ffffff)
 ![NextJs](https://img.shields.io/badge/-%7C%20NextJs-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/-%7C%20React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/-%7C%20React-06B6D4?style=flat-square&logo=react&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/-%7C%20Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-%7C%20Express-181717?style=flat-square&logo=express&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-%7C%20GitHub-181717?style=flat-square&logo=github)
